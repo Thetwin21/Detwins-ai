@@ -8,8 +8,7 @@ import {
     Accordion,
     AccordionItem,
     AccordionButton,
-    AccordionPanel,
-    AccordionIcon,
+    AccordionPanel
 } from '@chakra-ui/react';
 
 const Faquestions = ({index, setIndex}) => {

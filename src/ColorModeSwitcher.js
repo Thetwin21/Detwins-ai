@@ -12,7 +12,7 @@ export const ColorModeSwitcher = ({toggleColorFlag, ...rest}) => {
       firstUpdate.current = false;
       return 
     }
-    toggleColorMode()
+    toggleColorMode();
   }, [toggleColorFlag])
   
   return (
