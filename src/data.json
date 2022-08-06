@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "question": "What can I do here?",
+        "answer": "This is a readme about me, Sylvester Ogodo where you will know some information on Sylvester's career."
+    },
+    {
+        "id": 2,
+        "question": "What do you do?",
+        "answer": "I'm a frontend developer that builds cool and interactive website . I work with Javascript, React js and Node js."
+    },
+    {
+        "id": 3,
+        "question": "How can I order for your services?",
+        "answer": "For my services , you can reach me on twitter , LinkedIn or Email."
+    },
+    {
+        "id": 4,
+        "question": "How long does building a website takes?",
+        "answer": "It depends on the kind of website you want me to build for you, ranging from 3 days and above. "
+    },
+    {
+        "id": 5,
+        "question": "What do you enjoy most while/when coding?",
+        "answer": "I enjoy listening to music while coding and if the song hits so hard , i'd express it. "
+    },
+    {
+        "id": 6,
+        "question": "What advice would you like to give beginners in tech?",
+        "answer": "i'd say that they should keep learning and keep building and be consistent."
+    },
+    {
+        "id": 7,
+        "question": "What else do you do when you are not coding?",
+        "answer": "I read creative and mind blowing books like , Power of atomic habit and i also play games when i am bored."
+    }
+]
